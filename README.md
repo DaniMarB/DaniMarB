@@ -1,4 +1,13 @@
-### Hi there 👋
+Hi there 👋, I am Daniel Marquez
+------------------------------------------------
+
+- 💻 I am a Back End Developer of Web
+- 👾 I am passionate about learning new things, solving logic problems and videogames
+- 👷 I am an industrial engineering
+- 🌎 I am from Tunja - Colombia
+- 
+
+
 
 <!--
 **DaniMarB/DaniMarB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
